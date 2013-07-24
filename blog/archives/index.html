@@ -9,98 +9,59 @@
 
 <meta name="author" content="Santiago Gil"> 
 
-<meta name="description" content=""> <meta name="keywords" content="">
+<meta name="description" content=" 2013 De qué va este blog Jul 23 "> <meta name="keywords" content="">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<link href="/atom.xml" rel="alternate" title="_santiagogil_" type="application/atom+xml">
 	<link rel="canonical" href="">
 	<link href="/favicon.png" rel="shortcut icon">
-	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
-<script type="text/javascript" src="/fancybox/jquery.fancybox.pack.js"></script>
-
-<script language="Javascript" type="text/javascript">
-$(document).ready(
-  function() {
-    (function($) {
-      $(".fancybox[data-content-id]").each(function() {
-        this.href = $(this).data('content-id');
-      });
-      $(".fancybox").fancybox({
-        beforeLoad: function() {
-          var el, 
-              id = $(this.element).data('title-id');
-
-          if (id) {
-            el = $('#' + id);
-
-            if (el.length) {
-              this.title = el.html();
-            }
-          }
-          if ($(this).data('content')) {
-            this.content = $(this).data('content');
-          }
-        },
-        helpers: {
-          title: {
-            type: 'inside'
-          }
-        }
-      });
-    })(jQuery);
-  }
-);
-</script>
 	
 </head>
 
 
+
 <body>
-	<header id="header" class="inner"><h1><a href="/">_santiagogil_</a></h1>
-<h4></h4>
-<nav id="main-nav"><ul>
-	<li><a href="/">Blog</a></li>
-	<li><a href="/about">About</a></li>
-	<li><a href="/portfolio">Portfolio</a></li>
-	<li><a href="/archives">Archive</a></li>
-</ul>
-</nav>
-<nav id="mobile-nav">
-	<div class="alignleft menu">
-		<a class="button">Menu</a>
-		<div class="container"><ul>
-	<li><a href="/">Blog</a></li>
-	<li><a href="/about">About</a></li>
-	<li><a href="/portfolio">Portfolio</a></li>
-	<li><a href="/archives">Archive</a></li>
-</ul>
-</div>
-	</div>
-	<div class="alignright search">
-		<a class="button"></a>
-		<div class="container">
-			<form action="http://duckduckgo.com/" method="get">
-				<input type="text" name="q" results="0">
-				<input type="hidden" name="q" value="site:santiagogil.github.io">
-			</form>
-		</div>
-	</div>
+	<header id="header" class="jumbotron masthead"><img class="img-circle" src='http://www.gravatar.com/avatar/78bc637668cd4524f548a22f2ddf31dc.png'>
+<h1><a href="/">_santiagogil_</a></h1>
+<br/>
+<small class="muted">SoftwareLibre Unhosted EstandaresAbiertos SoberaníaTecnológica</small>
+<nav id="main-nav" class="container text-center"><a href="/">Entradas <i class="icon-edit"></i></a> | <a href="https://github.com/santiagogil" target="blank">Repos <i class="icon-github"></i></a> | <a href="https://twitter.com/_santiagogil_" target="blank">Twitter <i class="icon-twitter"></i></a> | <a href="/alguito-de-mi">Bio <i class="icon-user"></i></a>
 </nav>
 
 
 </header>
 
-	<div id="content" class="inner"></div>
-	<footer id="footer" class="inner">Copyright &copy; 2013
+	<div id="content" class="container-narrow">
+	
 
-    Santiago Gil
+
+	
+	
+	<section class="archives"><h1 class="year">2013</h1>
+
+<article>
+	<h2 class="title"><a href="/blog/2013/07/23/de-que-va-este-blog/">De qué va este blog</a></h2>
+	<div class="meta">
+		<span class="date">Jul 23</span>
+		<span class="tags">
+
+</span>
+	    
+	</div>
+</article>
+</div>
+	<footer id="footer" class="container-narrow text-center"><small class="muted">2013 WTFPL – Do What the Fuck You Want to Public License. 2013
+
+<em>Santiago Gil</em>
 
 <br>
-Powered by Octopress.
+Powered by Octopress.</small>
 </footer>
 	<script src="/javascripts/slash.js"></script>
 <script src="/javascripts/jquery.fancybox.pack.js"></script>
