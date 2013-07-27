@@ -4,7 +4,7 @@
   <title><![CDATA[_santiagogil_]]></title>
   <link href="http://santiagogil.github.io/atom.xml" rel="self"/>
   <link href="http://santiagogil.github.io/"/>
-  <updated>2013-07-26T19:00:49-03:00</updated>
+  <updated>2013-07-27T16:42:28-03:00</updated>
   <id>http://santiagogil.github.io/</id>
   <author>
     <name><![CDATA[Santiago Gil]]></name>
@@ -18,45 +18,7 @@
     <link href="http://santiagogil.github.io/blog/2013/07/23/de-que-va-este-blog/"/>
     <updated>2013-07-23T18:38:00-03:00</updated>
     <id>http://santiagogil.github.io/blog/2013/07/23/de-que-va-este-blog</id>
-    <content type="html"><![CDATA[<h4>Resumiendo:</h4>
-
-<ul>
-<li>Hartazgo institucional</li>
-<li>Filosofía P2P</li>
-<li>Cultura libre</li>
-<li>Fanatismo tecno-libertario (si es que algo así existe o puede existir)</li>
-</ul>
-
-
-<h4>Un poquito mas largo…</h4>
-
-<p>Las motivaciones para este espacio son varias. Van desde lo personal
-hasta lo político y giran siempre en torno a lo tecnológico.</p>
-
-<p>Tal vez la principal, o por lo menos la más noble, es la de devolver a
-la comunidad de la que me nutro desde hace años. Esta, es una deuda
-pendiente, que a esta altura me avergüenza un poco.</p>
-
-<p>Otra motivación importante tiene que ver con encontrar un espacio en el
-que lo técnico no tenga que negociar con coyunturas políticas que me
-desesperan.</p>
-
-<p>Desde hace ya cuatro años, cuento con el privilegio de “poder hacer
-desde adentro”. Sin embargo, este privilegio tiene también sus
-asperezas. A menudo, la desidia de empleados públicos inamovibles, de
-responsables de área que todo lo tercerizan y de quienes confunden
-realismo con cinismo; me deja al borde de la úlcera. Tengo la fantasía
-de que convertir a este blog en un medio de expresión profesional, libre
-de los citados males, le va a dar un giro positivo a mi laburo. Resulta,
-además, un desafío interesante el de encarar algo libre de trabas (y de
-excusas). Simplemente la medida real de lo que soy capaz. Con nombre y
-apellido.</p>
-
-<h4>Un poquito más concreto…</h4>
-
-<p>Aflojándole un poco al quejoso autobiográfico:</p>
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li>Divulgación sobre tecnologías libres.</li>
 <li>Novedades sobre open web, p2p y estándares abiertos.</li>
 <li>Algunos experimentos implementando “chiches nuevos” como webrtc.</li>
