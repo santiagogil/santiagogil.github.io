@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: militancia tecnológica | _santiagogil_]]></title>
+  <link href="http://santiagogil.github.io/blog/categories/militancia-tecnologica/atom.xml" rel="self"/>
+  <link href="http://santiagogil.github.io/"/>
+  <updated>2013-08-11T20:44:51-03:00</updated>
+  <id>http://santiagogil.github.io/</id>
+  <author>
+    <name><![CDATA[Santiago Gil]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[minuta jueves de tertulia]]></title>
+    <link href="http://santiagogil.github.io/blog/2013/08/11/minuta-jueves-de-tertulia/"/>
+    <updated>2013-08-11T16:31:00-03:00</updated>
+    <id>http://santiagogil.github.io/blog/2013/08/11/minuta-jueves-de-tertulia</id>
+    <content type="html"><![CDATA[<p>Hay mucha tela para cortar de lo que fué el último #JuevesdeTertulia.
+Este es mi intento de ordenar lo que pude pasar en limpio. Desde ya que
+es parcial. No solo por estar mediado por mi subjetividad sino, porque
+no hay manera de recuperar completo el log de los 2500 tweets de esa
+noche.</p>
+
+<!--more-->
+
+
+<p>Algo que saltó a la luz a los 5' de tertulia es que el problema presenta
+aristas a atacar desde diversos frentes.
+El amigo @francoisoular lo planteó de esta manera:</p>
+
+<blockquote class="twitter-tweet"><p>Parece que la privacidad en
+Internet se aborda a 3 niveles: individual, corporativo y societal <a
+href="https://twitter.com/search?q=%23juevesdetertulia&amp;src=hash">#juevesdetertulia</a></p>&mdash;
+Francois Soulard (@francoisoulard) <a
+href="https://twitter.com/francoisoulard/statuses/365666470182653952">August
+9, 2013</a></blockquote>
+
+
+<script async src="http://santiagogil.github.io//platform.twitter.com/widgets.js"
+charset="utf-8"></script>
+
+
+<p>Me parece que estos tres niveles resultan una buena forma de ordenar los
+&ldquo;frentes&rdquo; de trabajo.</p>
+
+<p>Se habló de software libre, de datacenters soberanos, de encriptación,
+de infraestructura de redes, de leyes, de regulación centralizada, de
+educación y hasta de estándares propios.</p>
+
+<p>Revisando el material al día siguiente me encontré con una
+categorización de segundo nivel, aplicable a cada uno de los tres
+niveles. (Sepan disculpar, soy un freaky de las estructuras).</p>
+
+<p>Los tres presentan desafíos técnicos, políticos, legislativos y
+educativos. En todos los casos, aparece como eje transversal el aspecto
+filosófico. Es éste el que motiva el debate y el trabajo de actores con
+bagajes y profesiones diversas en pos de una idea compartida, de una
+visión colectiva de libertad, soberanía y privacidad.</p>
+
+<p>Otro de los puntos que me parecen destacables es la necesidad de
+repensarlo todo desde una mirada independiente. La importancia de un
+diseño, una arquitecura propios. Este aspecto me parece que queda
+bellamente planteado en la cita de @vdifiore:</p>
+
+<blockquote class="twitter-tweet"><p><a
+href="https://twitter.com/search?q=%23juevesdetertulia&amp;src=hash">#juevesdetertulia</a>
+<a href="https://twitter.com/compaiRENE">@compaiRENE</a> <a
+href="https://twitter.com/federmanestrada">@federmanestrada</a> <a
+href="https://twitter.com/fanderfalconi">@fanderfalconi</a> será que ya
+estamos en tiempos de hablar de <a
+href="https://twitter.com/search?q=%23ProsperidadIntelectual&amp;src=hash">#ProsperidadIntelectual</a>
+?</p>&mdash; Vladimir di Fiore (@vdifiore) <a
+href="https://twitter.com/vdifiore/statuses/365678125272662017">August
+9, 2013</a></blockquote>
+
+
+<script async src="http://santiagogil.github.io//platform.twitter.com/widgets.js"
+charset="utf-8"></script>
+
+
+<p>Creo que si algo quedó claro, dada la diversidad y la riqueza de ideas,
+proyectos y preocupaciones es que el software libre es central pero es
+sólo una parte de la solución.
+Estoy completamente de acuerdo con @xaiki que el sábado, durante un
+largo alegato largó:</p>
+
+<blockquote class="twitter-tweet"><p>me parece que no hay que hablar mas
+de Software Libre, hay que hablar de un modelo cientifico, social,
+tecnico, ethico y economico. <a
+href="https://twitter.com/search?q=%23sabado&amp;src=hash">#sabado</a></p>&mdash;
+Niv Sardi (@xaiki) <a
+href="https://twitter.com/xaiki/statuses/366240077241778176">August 10,
+2013</a></blockquote>
+
+
+<script async src="http://santiagogil.github.io//platform.twitter.com/widgets.js"
+charset="utf-8"></script>
+
+
+<p>A fin de documentar todo lo posible sobre lo que fué el
+#JuevesdeTertulia, opté por publicar un <a href="://github.com/santiagogil/militancia-tecnologica">repo en GitHub</a> y ordenar los
+tweets en un wiki que podamos editar de manera colaborativa.
+Pretendo, de esta manera, inaugurar un espacio colectivo que nos permita
+armar una suerte de &ldquo;mapa&rdquo; de la problemática como forma de
+visualizarla y marcar agenda.</p>
+]]></content>
+  </entry>
+  
+</feed>
